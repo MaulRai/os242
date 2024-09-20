@@ -17,8 +17,15 @@ permalink: LINKS/
 
 * [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc){:target="_blank"}  
   Like the assignment instruction, you should watch 30 seconds of every chapter. But you likely just CANT! Even in the beginning of each chapter of this video could hook you to an interesting history, fun facts, and many cyber security details that you just can't skip!
-* [What Is Cyber Security | How It Works?](https://www.youtube.com/watch?v=inWWhr5tnEA){:target="_blank"}  
+* [What Is Cyber Security | How It Works?](https://www.youtube.com/watch?v=inWWhr5tnEA){:target="_blank"} 
   Pretty good depict how cybersecurity works and why it exists. It also covers a vast learning materials in PPT on this week.
+
+---
+## Week 3
+
+* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc){:target="_blank"}
+  Like the assignment instruction, you should watch 30 seconds of every chapter. But you likely just CANT! Even in the >* [What Is Cyber Security | How It Works?](https://www.youtube.com/watch?v=inWWhr5tnEA){:target="_blank"}
+  Pretty good depict how cybersecurity works and why it exists. It also covers a vast learning materials in PPT on this>
 
 ---
 
