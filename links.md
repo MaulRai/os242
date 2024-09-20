@@ -29,6 +29,15 @@ permalink: LINKS/
 
 ---
 
+## Week 3
+
+* [How to Create a Simple Makefile](https://www.youtube.com/watch?v=_r7i5X0rXJk&ab_channel=PaulProgramming){:target="_blank"}  
+  Introduction to using Makefiles, which are used to automate the build process for programs in languages like C and C++. The video demonstrates how to create a basic Makefile to streamline the compilation of code by specifying rules and dependencies. Paul explains the structure of a Makefile, including targets, prerequisites, and commands.
+* [why do header files even exist?](https://www.youtube.com/watch?v=tOQZlD-0Scc){:target="_blank"}  
+  Explores the purpose and necessity of header files in programming, specifically in languages like C and C++. The creator explains that header files (.h files) help organize code by separating declarations (such as function prototypes, macros, and variable definitions) from the actual implementation (in .c files).
+
+---
+
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 15:00
