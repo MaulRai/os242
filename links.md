@@ -38,6 +38,15 @@ permalink: LINKS/
 
 ---
 
+## Week 4
+
+* [How computer memory works](https://www.youtube.com/watch?v=p3q5zWCw8J4){:target="_blank"}
+  Do you ever wonder how computer retrieve your saved data? Thanks to **memory**, now we can write something in computer and save it. This short video explains the memory in general, like how it works, memory types, advantages and drawbacks of each types, etc.
+* [But, what is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I){:target="_blank"}
+  Excellent explanation of Memory Management, with a visual demonstration. Very compact and easy to understand. Great for visual learners.
+
+---
+
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 15:00
