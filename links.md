@@ -47,6 +47,16 @@ permalink: LINKS/
 
 ---
 
+## Week 5
+
+* [C structs](https://youtu.be/oKXP1HZ8xIs?si=ulpVGxQ4cNH92Bj6){:target="_blank"}
+  It's simply explain basic of structs in C, how it behave etc. Important to know to solve this week's assigment
+
+* [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ?si=m2AVfDFxbcKOzfpi){:target="_blank"}
+  Nice visualization for Virtual Memory in general. This video introduce you with virtual adress, lookup table, and physical memory with all the function.
+
+---
+
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 15:00
