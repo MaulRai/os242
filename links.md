@@ -57,6 +57,19 @@ permalink: LINKS/
 
 ---
 
+## Week 6
+
+* [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14){:target="_blank"}
+  It basically explain what is fork function does, how it turns, what it will do, and what it will return. Turns out, fork function is very important function for concurrent processing.
+
+* [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM&t=394s){:target="_blank"}
+  The sequel of the last multiprocessing video, we are introduced to getpid() and getppid(), which return, respectively, the process ID of the child and the process ID of the parent. This video also demonstrates some cases using fork and those 2 function.
+
+* [Waiting for processes to finish (using the wait function) in C](https://youtu.be/tcYo6hipaSA?si=Bd9dh-nNLMXdfTe3){:target="_blank"}
+  Next up, we meet this special function that called wait. As the name describe, it will yield until the other process done return. This video also demonstrates some cases using wait function.
+
+---
+
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 15:00
