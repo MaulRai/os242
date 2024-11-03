@@ -21,13 +21,6 @@ permalink: LINKS/
   Pretty good depict how cybersecurity works and why it exists. It also covers a vast learning materials in PPT on this week.
 
 ---
-## Week 3
-
-* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc){:target="_blank"}
-  Like the assignment instruction, you should watch 30 seconds of every chapter. But you likely just CANT! Even in the >* [What Is Cyber Security | How It Works?](https://www.youtube.com/watch?v=inWWhr5tnEA){:target="_blank"}
-  Pretty good depict how cybersecurity works and why it exists. It also covers a vast learning materials in PPT on this>
-
----
 
 ## Week 3
 
@@ -69,6 +62,15 @@ permalink: LINKS/
   Next up, we meet this special function that called wait. As the name describe, it will yield until the other process done return. This video also demonstrates some cases using wait function.
 
 ---
+
+## Week 7
+
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=EvWPdcVUKuGmNC4j){:target="_blank"}
+  This demonstration video will first introduce you with how cooperating processes work. But this processes have some problem, so it has the solution for it which  explained in next video.
+
+* [The Critical-Section Problem](https://youtu.be/UtEORPakw5Y?si=9F0esyWmKpHWvQu2){:target="_blank"}
+  Explain one of the problem that appears when some processes try to changing something with the same variable/file/something else. So the the solution for this is to implement critical section where no two processes are executing in their critcal sections at the same time.
+
 
 <br>
 <br>
