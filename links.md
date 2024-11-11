@@ -71,6 +71,13 @@ permalink: LINKS/
 * [The Critical-Section Problem](https://youtu.be/UtEORPakw5Y?si=9F0esyWmKpHWvQu2){:target="_blank"}
   Explain one of the problem that appears when some processes try to changing something with the same variable/file/something else. So the the solution for this is to implement critical section where no two processes are executing in their critcal sections at the same time.
 
+## Week 8
+
+* [6. Chapter 5: Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=7&t=7s){:target="_blank"}
+  This video provides a clear, step-by-step guide on building the toolchain necessary for creating a Linux From Scratch (LFS) system. It focuses on configuring and compiling essential tools like GCC and Binutils, which are foundational for compiling a Linux environment from scratch. The tutorial is especially helpful for users looking to understand the intricacies of cross-compilation and dependencies in Linux system development.
+
+* [Operating System #21 Scheduling in Linux: O(n), O(1) Scheduler](https://www.youtube.com/watch?v=vF3KKMI3_1s){:target="_blank"}
+  This video breaks down the evolution of Linux scheduling algorithms, focusing on O(n) and O(1) schedulers. It clarifies the efficiency differences between these approaches, particularly how the O(1) scheduler optimizes task selection speed, which is crucial for enhancing system performance. This is valuable for anyone looking to grasp how Linux handles multitasking efficiently.
 
 <br>
 <br>
