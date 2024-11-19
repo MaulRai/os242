@@ -71,6 +71,8 @@ permalink: LINKS/
 * [The Critical-Section Problem](https://youtu.be/UtEORPakw5Y?si=9F0esyWmKpHWvQu2){:target="_blank"}
   Explain one of the problem that appears when some processes try to changing something with the same variable/file/something else. So the the solution for this is to implement critical section where no two processes are executing in their critcal sections at the same time.
 
+---
+
 ## Week 8
 
 * [6. Chapter 5: Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=7&t=7s){:target="_blank"}
@@ -79,6 +81,14 @@ permalink: LINKS/
 * [Operating System #21 Scheduling in Linux: O(n), O(1) Scheduler](https://www.youtube.com/watch?v=vF3KKMI3_1s){:target="_blank"}
   This video breaks down the evolution of Linux scheduling algorithms, focusing on O(n) and O(1) schedulers. It clarifies the efficiency differences between these approaches, particularly how the O(1) scheduler optimizes task selection speed, which is crucial for enhancing system performance. This is valuable for anyone looking to grasp how Linux handles multitasking efficiently.
 
+---
+
+## Week 9
+
+* [8. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://youtu.be/m6USND1vPhM?si=fFqpbBaUOSCJq3m7){:target="_blank"}
+  This video demonstrates how to set up and enter the chroot environment in Linux From Scratch, isolating the build process from the host system. It provides step-by-step guidance for building essential temporary tools needed for compiling the rest of the system.
+
+---
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 15:00
