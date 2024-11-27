@@ -1,6 +1,20 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W10 100 L00 General, etc.
+ZCZC W10 50 L01 SCELE/Discord related
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 20 L05 Quiz related including studying
+ZCZC W10 360 L09 Assignment in General
+ZCZC W10 10 L10 Assignment #00
+ZCZC W10 10 L11 Assignment #01
+ZCZC W10 10 L12 Assignment #02
+ZCZC W10 330 L13 Assignment #03
+ZCZC W10 10 L14 Assignment #04
+ZCZC W10 100 L30 Udacity: study, etc.
+ZCZC W10 200 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W10 200 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W09 200 L00 General, etc.
 ZCZC W09 100 L01 SCELE/Discord related
 ZCZC W09 200 L02 CLASSROOM/ZOOM meetings related

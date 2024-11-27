@@ -89,6 +89,13 @@ permalink: LINKS/
   This video demonstrates how to set up and enter the chroot environment in Linux From Scratch, isolating the build process from the host system. It provides step-by-step guidance for building essential temporary tools needed for compiling the rest of the system.
 
 ---
+
+## Week 10
+
+* [9. Chapter 8: Installing Basic System Software - How to build Linux From Scratch (LFS) 12.2 - Tutorial](https://youtu.be/ReIeiTqYTGc?si=qUN_M_Uj5XFCoZxL){:target="_blank"}
+  This tutorial on Chapter 8: Installing Basic System Software for LFS 12.2 provides clear, step-by-step guidance on building a Linux system. The presenter explains commands and their purposes in a concise manner, ensuring beginners can follow along. Visuals and terminal outputs are well-aligned with the instructions, making it easier to track progress. Overall, the video is a helpful resource for users building their first LFS system.
+
+---
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 15:00
